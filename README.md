@@ -2,4 +2,6 @@
 Exemplos e execicios da ebac.
 
 Primeiro exemplo de commit e push no reposiório.
-Segundo commit
+Segundo commit.
+
+Quarto commit
